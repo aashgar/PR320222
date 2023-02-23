@@ -17,7 +17,7 @@ public class JpaMain {
 
     public static void main(String[] args) {
         EntityManager em = Persistence.
-                createEntityManagerFactory("PR3S101PU").createEntityManager();
+                createEntityManagerFactory("PR320222PU").createEntityManager();
 //        Department department = new Department("Sales", "Gaza");
 //        Project[] projects = {
 //            new Project("SE", "Alquds"),
